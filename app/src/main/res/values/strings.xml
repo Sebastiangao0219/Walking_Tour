@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Walking Tour</string>
+    <string name="title_activity_maps">Walking Tour</string>
+    <string name="show_address">Show Address</string>
+    <string name="show_geofences">Show Geofences</string>
+    <string name="show_travel_path">Show Travel Path</string>
+    <string name="show_tour_path">Show Tour Path</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="homeImage">TODO</string>
+</resources>
